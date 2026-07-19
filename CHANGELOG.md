@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/CoCreate-app/CoCreate-amazon-redshift/compare/v1.1.0...v1.1.1) (2026-07-19)
+
+
+### Bug Fixes
+
+* set default branch to main ([84f1d30](https://github.com/CoCreate-app/CoCreate-amazon-redshift/commit/84f1d3027f2ccd709f2687ee1c87c7815acf0b74))
+
 # [1.1.0](https://github.com/CoCreate-app/CoCreate-amazon-redshift/compare/v1.0.0...v1.1.0) (2026-07-19)
 
 
