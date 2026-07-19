@@ -69,7 +69,7 @@ When this analytical payload is sent, CoCreate registers it, processes the neste
 ```json
 {
   "method": "object.create",
-  "storage": "redshift",
+  "storage": ["redshift", "mongodb", "qdrant"], // Array of storages to store in parallel!
   "database": "sales_analytics",
   "array": "order_events",
   "object": {
