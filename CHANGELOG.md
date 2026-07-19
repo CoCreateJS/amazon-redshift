@@ -1,3 +1,11 @@
+# [1.1.0](https://github.com/CoCreate-app/CoCreate-amazon-redshift/compare/v1.0.0...v1.1.0) (2026-07-19)
+
+
+### Features
+
+* Update README.md to reflect CoCreate-amazon-redshift details and structure ([aed229e](https://github.com/CoCreate-app/CoCreate-amazon-redshift/commit/aed229e93c44c277c80fa9cd311aaef17479fa86))
+* Update README.md to reflect CoCreate-amazon-redshift details and structure ([26d38a5](https://github.com/CoCreate-app/CoCreate-amazon-redshift/commit/26d38a58a505a358c0ec1678fbbcc572b0815eed))
+
 # 1.0.0 (2026-07-18)
 
 
