@@ -127,7 +127,7 @@ Querying Redshift uses the exact same MongoDB-style filter syntax. The query bel
   "storage": "redshift",
   "database": "sales_analytics",
   "array": "order_events",
-  "$filter": {
+  "filter": {
     "query": {
       "transaction.total": { "$gte": 100.00 },
       "shipping.carrier": "FedEx"
