@@ -46,8 +46,7 @@
   "main": "./src/index.js",
   "exports": {
     ".": "./src/index.js",
-    "./dist": "./dist/amazon-redshift.js",
-    "./installer": "./installer/amazon-redshift.installer.js"
+    "./dist": "./dist/amazon-redshift.js"
   },
   "devDependencies": {
     "@cocreate/webpack": "^1.9.0"
