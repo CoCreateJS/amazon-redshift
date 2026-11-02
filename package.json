@@ -30,17 +30,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cocreatejs/CoCreate-amazon-redshift.git"
+    "url": "git+https://github.com/CoCreateJS/amazon-redshift.git"
   },
   "author": "CoCreate LLC",
   "license": "AGPL-3.0",
   "bugs": {
-    "url": "https://github.com/CoCreateJS/CoCreate-amazon-redshift/issues"
+    "url": "https://github.com/CoCreateJS/amazon-redshift/issues"
   },
   "homepage": "https://CoCreateJS.com/docs/amazon-redshift",
   "funding": {
     "type": "GitHub Sponsors ❤",
-    "url": "https://github.com/sponsors/CoCreate-app"
+    "url": "https://github.com/sponsors/CoCreateJS"
   },
   "type": "module",
   "main": "./src/index.js",
