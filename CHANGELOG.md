@@ -1,3 +1,10 @@
+## [2.0.2](https://github.com/CoCreateJS/amazon-redshift/compare/v2.0.1...v2.0.2) (2026-11-07)
+
+
+### Bug Fixes
+
+* bump CoCreate dependency versions ([e76210f](https://github.com/CoCreateJS/amazon-redshift/commit/e76210ff9d8e0ec50594973edee4b75f09e43cab))
+
 ## [2.0.1](https://github.com/CoCreateJS/amazon-redshift/compare/v2.0.0...v2.0.1) (2026-11-05)
 
 
